@@ -16,6 +16,6 @@ Hi there! 👋<br>🛠️ I'm diving deep into DevOps and mastering the Next.js 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 😂 Random Dev Meme
-<img src='https://i.chzbgr.com/full/9855605248/hC5A1AA9F/yo-lets-just-compile-this-2000-line-code-just-wrote-runs-without-errors-warnings-first-time"/>
+<img src='https://i.chzbgr.com/full/9855605248/hC5A1AA9F/yo-lets-just-compile-this-2000-line-code-just-wrote-runs-without-errors-warnings-first-time'/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
