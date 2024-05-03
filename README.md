@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br>🛠️ I'm diving deep into DevOps and mastering the Next.js framework.<br>🤝 Currently seeking collaboration on exciting web dev projects.<br>🔍 Need a hand with DevOps? Let's team up!<br>📈 Planning to venture into the world of data analysis soon.<br>💻 Ask me anything techy—I'm all ears!<br>😄 Fun fact: Anime > Code!<br><br>Feel free to reach out! Let's build something awesome together! 🚀
+Hi there! 👋<br>🛠️ I'm diving deep into DevOps and also learning the Next.js framework apart from that.<br>🤝 Currently seeking collaboration on exciting web dev projects.<br>🔍 Need a hand with DevOps? Let's team up!<br>📈 Planning to venture into the world of data analysis soon.<br>💻 Ask me anything techy—I'm all ears!<br>😄 Fun fact: Anime > Code!<br><br>Feel free to reach out! Let's build something awesome together! 🚀
 
 
 ## 🌐 Socials:
